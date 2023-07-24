@@ -1,0 +1,10 @@
+streamlit==1.24.1
+python-dotenv==1.0.0
+mxnet==1.8.0.post0
+insightface
+onnx==1.14.0
+onnxruntime==1.15.0
+onnxruntime-gpu>=1.6
+numpy
+pandas
+opencv-contrib-python

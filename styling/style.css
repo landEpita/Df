@@ -1,0 +1,22 @@
+[data-testid="stDataFrameResizable"]
+{
+    border:none;
+    background:blue;
+}
+
+[data-testid="stSidebar"]
+{
+    background-color: #242b57;
+}
+
+[data-testid="stSidebar"] .sidebar-content {
+    color: white;
+}
+
+span.css-17lntkn {
+    color : white;
+}
+
+span.css-pkbazv {
+    color : white;
+}
